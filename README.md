@@ -40,3 +40,7 @@ This project allows users to:
 - [Short Term] Train model using Google Colab so that more epochs can be run during training
 - [Short Term] Plot epoch times and accuracy using matplotlib
 - [Long Term] Support for multi-digit numbers (i.e. recognizing '5' and '1' as '51')
+
+---
+### Acknowledgements
+I would like to thank my friend, Parshva, who introduced me to some of the key concepts used to make this project a possibility.
