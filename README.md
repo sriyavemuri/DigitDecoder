@@ -36,4 +36,7 @@ This project allows users to:
 ---
 
 ## Future Plans
-In the future, I might focus more on the Pygame canvas and make it more visually appealing. Currently, it is just a blank black canvas with white ink.
+- [Short Term] Revamping Pygame Canvas to be more visually appealing
+- [Short Term] Train model using Google Colab so that more epochs can be run during training
+- [Short Term] Plot epoch times and accuracy using matplotlib
+- [Long Term] Support for multi-digit numbers (i.e. recognizing '5' and '1' as '51')
