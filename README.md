@@ -42,5 +42,5 @@ This project allows users to:
 - [Long Term] Support for multi-digit numbers (i.e. recognizing '5' and '1' as '51')
 
 ---
-### Acknowledgements
+## Acknowledgements
 I would like to thank my friend, Parshva, who introduced me to some of the key concepts used to make this project a possibility.
